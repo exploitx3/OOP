@@ -15,15 +15,20 @@ namespace Problem_5.Word_Document_Generator
         {
             using (DocX document = DocX.Create("../../SoftUniGame.docx"))
             {
+                #region Title
                 Paragraph title = document.InsertParagraph();
                 title.AppendLine("SoftUni OOP Game Contest").Bold().FontSize(30);
                 title.Alignment = Alignment.center;
+                #endregion
 
+                #region Image
                 Novacode.Image imageGame = document.AddImage("../../rpg-game.png");
                 Paragraph pictureParagraph = document.InsertParagraph("", false);
                 Picture game = imageGame.CreatePicture(250, 600);
                 pictureParagraph.InsertPicture(game);
+                #endregion
 
+                #region Info Text
                 Paragraph text = document.InsertParagraph();
                 text.FontSize(13);
                 text.AppendLine();
@@ -32,15 +37,18 @@ namespace Problem_5.Word_Document_Generator
                 text.Append(" from the OOP teamwork\r\n projects. The winning teams will receive a ").FontSize(DEFAULT_TEXT_SIZE);
                 text.Append("grand prize").Bold().UnderlineStyle(UnderlineStyle.singleLine).FontSize(DEFAULT_TEXT_SIZE);
                 text.Append("!\r\nThe game should be:").FontSize(DEFAULT_TEXT_SIZE);
-                
+                #endregion
 
+                #region List of options
                 List bullets = document.AddList(null,0,ListItemType.Bulleted);
                 document.AddListItem(bullets, "Properly structured and follow all good OOP practices");
                 document.AddListItem(bullets, "Awesome");
                 document.AddListItem(bullets, "..Very Awesome");
                 document.InsertList(bullets);
                 document.InsertParagraph("\r\n");
+                #endregion
 
+                #region Table
                 Table table = document.AddTable(4, 3);
                 
                 
@@ -69,7 +77,9 @@ namespace Problem_5.Word_Document_Generator
                 table.Rows[1].Cells.ForEach(c => c.Width = 300);
                 table.Rows[2].Cells.ForEach(c => c.Width = 300);
                 document.InsertTable(table);
+                #endregion
 
+                #region Prize Info Text
                 Paragraph lastText = document.InsertParagraph();
                 lastText.AppendLine();
                 lastText.Append("The top 3 teams will receive a ").FontSize(DEFAULT_TEXT_SIZE);
@@ -80,9 +90,9 @@ namespace Problem_5.Word_Document_Generator
                     .UnderlineStyle(UnderlineStyle.thick).FontSize(17)
                     .Color(Color.MidnightBlue);
                 lastText.Alignment = Alignment.center;
-                
 
-             
+                #endregion
+
 
                 document.Save();
             }
