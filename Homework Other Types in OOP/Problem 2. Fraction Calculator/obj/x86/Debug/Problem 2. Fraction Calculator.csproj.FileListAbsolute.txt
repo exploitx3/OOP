@@ -1,0 +1,4 @@
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.pdb
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 2. Fraction Calculator\obj\x86\Debug\Problem_2.Fraction_Calculator.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 2. Fraction Calculator\obj\x86\Debug\Problem_2.Fraction_Calculator.pdb

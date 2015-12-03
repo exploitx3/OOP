@@ -1,0 +1,4 @@
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.pdb
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 1. Galactic GPS\obj\x86\Debug\Problem_1.Galactic_GPS.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 1. Galactic GPS\obj\x86\Debug\Problem_1.Galactic_GPS.pdb

@@ -1,0 +1,6 @@
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.pdb
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\bin\Debug\DocX.dll
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\obj\x86\Debug\Problem 5.  Word Document Generator.csprojResolveAssemblyReference.cache
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\obj\x86\Debug\Problem_5.Word_Document_Generator.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 5.  Word Document Generator\obj\x86\Debug\Problem_5.Word_Document_Generator.pdb

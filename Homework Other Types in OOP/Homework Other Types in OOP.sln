@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Galactic GPS", "Problem 1. Galactic GPS\Problem 1. Galactic GPS.csproj", "{575351C5-2443-4D9D-82EE-1811370A3334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Fraction Calculator", "Problem 2. Fraction Calculator\Problem 2. Fraction Calculator.csproj", "{113EFE64-F7F9-40E0-B0B0-22D4C2ED2855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Generic List", "Problem 3. Generic List\Problem 3. Generic List.csproj", "{BBFF4221-2F99-4CA6-859B-1A5A15FE6C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Generic List Version", "Problem 4. Generic List Version\Problem 4. Generic List Version.csproj", "{E3B570D7-005A-4375-8D12-135069130FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5.  Word Document Generator", "Problem 5.  Word Document Generator\Problem 5.  Word Document Generator.csproj", "{89B78A9C-65B2-4407-A8E1-EA8C582A55F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575351C5-2443-4D9D-82EE-1811370A3334}.Debug|x86.ActiveCfg = Debug|x86
+		{575351C5-2443-4D9D-82EE-1811370A3334}.Debug|x86.Build.0 = Debug|x86
+		{575351C5-2443-4D9D-82EE-1811370A3334}.Release|x86.ActiveCfg = Release|x86
+		{575351C5-2443-4D9D-82EE-1811370A3334}.Release|x86.Build.0 = Release|x86
+		{113EFE64-F7F9-40E0-B0B0-22D4C2ED2855}.Debug|x86.ActiveCfg = Debug|x86
+		{113EFE64-F7F9-40E0-B0B0-22D4C2ED2855}.Debug|x86.Build.0 = Debug|x86
+		{113EFE64-F7F9-40E0-B0B0-22D4C2ED2855}.Release|x86.ActiveCfg = Release|x86
+		{113EFE64-F7F9-40E0-B0B0-22D4C2ED2855}.Release|x86.Build.0 = Release|x86
+		{BBFF4221-2F99-4CA6-859B-1A5A15FE6C25}.Debug|x86.ActiveCfg = Debug|x86
+		{BBFF4221-2F99-4CA6-859B-1A5A15FE6C25}.Debug|x86.Build.0 = Debug|x86
+		{BBFF4221-2F99-4CA6-859B-1A5A15FE6C25}.Release|x86.ActiveCfg = Release|x86
+		{BBFF4221-2F99-4CA6-859B-1A5A15FE6C25}.Release|x86.Build.0 = Release|x86
+		{E3B570D7-005A-4375-8D12-135069130FB9}.Debug|x86.ActiveCfg = Debug|x86
+		{E3B570D7-005A-4375-8D12-135069130FB9}.Debug|x86.Build.0 = Debug|x86
+		{E3B570D7-005A-4375-8D12-135069130FB9}.Release|x86.ActiveCfg = Release|x86
+		{E3B570D7-005A-4375-8D12-135069130FB9}.Release|x86.Build.0 = Release|x86
+		{89B78A9C-65B2-4407-A8E1-EA8C582A55F1}.Debug|x86.ActiveCfg = Debug|x86
+		{89B78A9C-65B2-4407-A8E1-EA8C582A55F1}.Debug|x86.Build.0 = Debug|x86
+		{89B78A9C-65B2-4407-A8E1-EA8C582A55F1}.Release|x86.ActiveCfg = Release|x86
+		{89B78A9C-65B2-4407-A8E1-EA8C582A55F1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

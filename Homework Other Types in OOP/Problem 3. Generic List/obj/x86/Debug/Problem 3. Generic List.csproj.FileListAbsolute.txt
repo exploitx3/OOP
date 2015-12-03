@@ -1,0 +1,4 @@
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 3. Generic List\bin\Debug\Problem_3.Generic_List.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 3. Generic List\bin\Debug\Problem_3.Generic_List.pdb
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 3. Generic List\obj\x86\Debug\Problem_3.Generic_List.exe
+c:\users\leet\documents\visual studio 2010\Projects\Homework Other Types in OOP\Problem 3. Generic List\obj\x86\Debug\Problem_3.Generic_List.pdb
